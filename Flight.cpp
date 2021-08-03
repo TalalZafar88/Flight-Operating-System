@@ -1,8 +1,3 @@
-//// Talal zafar i180497
-//// Osama Manzoor i180450
-//// Awaiz Hussain i181593
-
-
 #include<fstream>
 #include<iostream>
 #include<climits>
